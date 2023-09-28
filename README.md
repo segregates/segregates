@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/segregates">
-    <img src="https://imgur.com/a/hQnRCoS"/>
+    ![grey_banner](https://github.com/segregates/segregates/assets/79550148/a4c9a9de-1742-4a0d-bbf4-2f9e39ae88a2)
   </a>
 </p>
+
 
 
 <p align="center">
