@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/segregates">
-    <img src="https://criminal.host/ovzl621l38ml.gif" alt="grey" />
+    <img src="https://criminal.host/ovzl621l38ml.gif"/>
   </a>
 </p>
 
