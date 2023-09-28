@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/segregates">
-    ![grey_banner](https://github.com/segregates/segregates/assets/79550148/a4c9a9de-1742-4a0d-bbf4-2f9e39ae88a2)
-  </a>
-</p>
+![grey_banner](https://github.com/segregates/segregates/assets/79550148/8079be70-e9ef-4bc0-b72c-3e4338995506)
 
 
 
